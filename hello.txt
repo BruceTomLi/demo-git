@@ -8,3 +8,5 @@ hello world!
 changed by hot-fix branch!
 
 updated by master!
+
+updated by hot-fix!
